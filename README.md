@@ -1,6 +1,6 @@
-# circuitdebug (on going)
+# circuitdebug (ongoing)
 
-The purpose of this repo is to
+As a companian of [autocircuit](https://github.com/leannejdong/autocircuit), the purpose of this repo is to
 
 * Refactor the [CircuitMath C project](https://github.com/edymil/CircuitMath) into C++
 
