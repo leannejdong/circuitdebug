@@ -1,4 +1,4 @@
-# circuitdebug (ongoing)
+# circuitdebug (informal test)
 
 As a companian of [autocircuit](https://github.com/leannejdong/autocircuit), the purpose of this repo is to
 
